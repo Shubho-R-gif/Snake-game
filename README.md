@@ -3,7 +3,7 @@
 A classic and enjoyable Snake game built using HTML, CSS, and JavaScript. Navigate the snake with arrow keys to collect food, grow longer, and avoid collisions with walls or your own tail.
 
 ## Features ✨
-Classic Gameplay:
+-- Classic Gameplay:
 Collect food to increase your score while making the snake grow longer.
 
 -- Dynamic Growth:
@@ -15,7 +15,7 @@ Smooth and responsive controls using the keyboard arrow keys for movement.
 Lightweight and efficient design, compatible with all modern web browsers.
 
 ## Technologies Used 💻
-HTML:
+## HTML:
 Structure and layout of the game elements.
 
 ## CSS:
