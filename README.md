@@ -1,5 +1,5 @@
 # Snake-game 🐍
-
+<p align="center"> <img src="https://img.icons8.com/color/96/html-5--v1.png" alt="HTML Logo" width="60" height="60"/> <img src="https://img.icons8.com/color/96/css3.png" alt="CSS Logo" width="60" height="60"/> <img src="https://img.icons8.com/color/96/javascript--v1.png" alt="JavaScript Logo" width="60" height="60"/> </p>
 A classic and enjoyable Snake game built using HTML, CSS, and JavaScript. Navigate the snake with arrow keys to collect food, grow longer, and avoid collisions with walls or your own tail.
 
 ## Features ✨
