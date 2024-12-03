@@ -1,16 +1,26 @@
-# Snake-game
+# Snake-game 🐍
 
+A classic and enjoyable Snake game built using HTML, CSS, and JavaScript. Navigate the snake with arrow keys to collect food, grow longer, and avoid collisions with walls or your own tail.
 
+Features ✨
+Classic Gameplay:
+Collect food to increase your score while making the snake grow longer.
 
-Snake Game 🐍
-A simple and fun Snake game built using JavaScript, HTML, and CSS. Control the snake using the arrow keys to collect food, grow longer, and avoid collisions with the walls or your own tail.
+Dynamic Growth:
+The snake expands with each piece of food eaten, making navigation more challenging.
 
-🎮 Features
-Classic Gameplay: Collect food to grow the snake and increase your score.
-Dynamic Growth: The snake grows longer with each food item eaten.
-Interactive Controls: Use the arrow keys for smooth and responsive movement.
-Minimal Design: Clean and lightweight, suitable for all modern browsers.
-🛠️ Technologies Used
-HTML: Game layout and structure.
-CSS: Visual styling of the game elements.
-JavaScript: Core game logic and real-time interaction.
+Interactive Controls:
+Smooth and responsive controls using the keyboard arrow keys for movement.
+
+Simple and Elegant Design:
+Lightweight and efficient design, compatible with all modern web browsers.
+
+Technologies Used 💻
+HTML:
+Structure and layout of the game elements.
+
+CSS:
+Styling for the game board, snake, and food.
+
+JavaScript:
+Implementation of the game logic, movement, and collision detection.
